@@ -1,0 +1,15 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>2021272111390000000403.xml</filename>
+	<path>2021272111390000000403.xml</path>
+	<source>
+		<database />
+		<annotation />
+	</source>
+	<size>
+		<width>169</width>
+		<height>472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+<object><name>phone</name><pose /><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>26.0</xmin><ymin>143.0</ymin><xmax>56.0</xmax><ymax>165.0</ymax></bndbox></object><object><name>hand</name><pose /><truncated>0</truncated><difficult>0</difficult><bndbox><xmin>133.0</xmin><ymin>244.0</ymin><xmax>156.0</xmax><ymax>290.0</ymax></bndbox></object></annotation>
